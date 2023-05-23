@@ -1,6 +1,6 @@
 # Mental Health
 
-
 ## Screenshots
-Splash Page 
-![]()
+
+Home Page
+![](https://github.com/Manoj735/Mental-Health/blob/main/Screenshots/Home.png)
